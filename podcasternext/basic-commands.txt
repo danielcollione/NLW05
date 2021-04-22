@@ -1,0 +1,5 @@
+create react next app
+
+yarn add typescript @types/react @types/node -d
+
+tsx = typescript e jsx (xml no html)
